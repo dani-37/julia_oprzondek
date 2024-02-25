@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/julia_oprzondek/static/css/main.bb069e9b.css",
-    "main.js": "/julia_oprzondek/static/js/main.b2ee2aef.js",
+    "main.js": "/julia_oprzondek/static/js/main.599273ef.js",
     "static/js/453.005d5c59.chunk.js": "/julia_oprzondek/static/js/453.005d5c59.chunk.js",
     "static/media/embassy.webp": "/julia_oprzondek/static/media/embassy.69007b2d1b586954c462.webp",
     "static/media/julia.webp": "/julia_oprzondek/static/media/julia.83eae7054df3439a64ea.webp",
@@ -21,11 +21,11 @@
     "static/media/sounds.webp": "/julia_oprzondek/static/media/sounds.a65fcfae050ebf9ac2bf.webp",
     "index.html": "/julia_oprzondek/index.html",
     "main.bb069e9b.css.map": "/julia_oprzondek/static/css/main.bb069e9b.css.map",
-    "main.b2ee2aef.js.map": "/julia_oprzondek/static/js/main.b2ee2aef.js.map",
+    "main.599273ef.js.map": "/julia_oprzondek/static/js/main.599273ef.js.map",
     "453.005d5c59.chunk.js.map": "/julia_oprzondek/static/js/453.005d5c59.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.bb069e9b.css",
-    "static/js/main.b2ee2aef.js"
+    "static/js/main.599273ef.js"
   ]
 }
