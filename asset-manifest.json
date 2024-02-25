@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/julia_oprzondek/static/css/main.bb069e9b.css",
+    "main.js": "/julia_oprzondek/static/js/main.b2ee2aef.js",
+    "static/js/453.005d5c59.chunk.js": "/julia_oprzondek/static/js/453.005d5c59.chunk.js",
+    "static/media/embassy.webp": "/julia_oprzondek/static/media/embassy.69007b2d1b586954c462.webp",
+    "static/media/julia.webp": "/julia_oprzondek/static/media/julia.83eae7054df3439a64ea.webp",
+    "static/media/city.webp": "/julia_oprzondek/static/media/city.d7369eb5f7b767c4bf21.webp",
+    "static/media/goremote.webp": "/julia_oprzondek/static/media/goremote.3b3055b22a4d58338a1a.webp",
+    "static/media/newonce.webp": "/julia_oprzondek/static/media/newonce.c9369316e9a7f13f2dae.webp",
+    "static/media/bocconi.webp": "/julia_oprzondek/static/media/bocconi.15b89dbcb1cc0b1a8efc.webp",
+    "static/media/penguin.webp": "/julia_oprzondek/static/media/penguin.c8c4350c667ed4e5091a.webp",
+    "static/media/aptos-bold.ttf": "/julia_oprzondek/static/media/aptos-bold.3ea0f019755b70ad3448.ttf",
+    "static/media/aptos.ttf": "/julia_oprzondek/static/media/aptos.ad041a973b90a1c735e9.ttf",
+    "static/media/aptos-light.ttf": "/julia_oprzondek/static/media/aptos-light.1f1a8000727888980f28.ttf",
+    "static/media/language.webp": "/julia_oprzondek/static/media/language.2b938c0fbaa2f8a12f62.webp",
+    "static/media/ddd.webp": "/julia_oprzondek/static/media/ddd.420cf16fcba18418f3bd.webp",
+    "static/media/lambert.webp": "/julia_oprzondek/static/media/lambert.5f1ca61e79fcaf78e208.webp",
+    "static/media/drag.webp": "/julia_oprzondek/static/media/drag.a63f12bd462af01044e2.webp",
+    "static/media/punk.webp": "/julia_oprzondek/static/media/punk.1f9357d31bc41dc75b9e.webp",
+    "static/media/sounds.webp": "/julia_oprzondek/static/media/sounds.a65fcfae050ebf9ac2bf.webp",
+    "index.html": "/julia_oprzondek/index.html",
+    "main.bb069e9b.css.map": "/julia_oprzondek/static/css/main.bb069e9b.css.map",
+    "main.b2ee2aef.js.map": "/julia_oprzondek/static/js/main.b2ee2aef.js.map",
+    "453.005d5c59.chunk.js.map": "/julia_oprzondek/static/js/453.005d5c59.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bb069e9b.css",
+    "static/js/main.b2ee2aef.js"
+  ]
+}
