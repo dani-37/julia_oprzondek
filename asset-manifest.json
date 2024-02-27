@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/julia_oprzondek/static/css/main.fa4aa6d6.css",
-    "main.js": "/julia_oprzondek/static/js/main.c15217c7.js",
+    "main.css": "/julia_oprzondek/static/css/main.d6ad43cd.css",
+    "main.js": "/julia_oprzondek/static/js/main.02d7ffda.js",
     "static/js/453.005d5c59.chunk.js": "/julia_oprzondek/static/js/453.005d5c59.chunk.js",
     "static/media/b2.webp": "/julia_oprzondek/static/media/b2.ee39df51fea4e4bbcc66.webp",
     "static/media/b1.webp": "/julia_oprzondek/static/media/b1.444d883c803fe1d9051f.webp",
+    "static/media/julia.webp": "/julia_oprzondek/static/media/julia.468acfdfacac25757fbd.webp",
     "static/media/a1.webp": "/julia_oprzondek/static/media/a1.993b34969093cb8bc5a3.webp",
     "static/media/newonce_p.webp": "/julia_oprzondek/static/media/newonce_p.38bad544708096a326d9.webp",
     "static/media/embassy.webp": "/julia_oprzondek/static/media/embassy.69007b2d1b586954c462.webp",
-    "static/media/julia.webp": "/julia_oprzondek/static/media/julia.83eae7054df3439a64ea.webp",
     "static/media/newonce.webp": "/julia_oprzondek/static/media/newonce.e9ca64875d59981a7974.webp",
     "static/media/ddd.webp": "/julia_oprzondek/static/media/ddd.420cf16fcba18418f3bd.webp",
     "static/media/a2.webp": "/julia_oprzondek/static/media/a2.c152f31d19a1a549e8e7.webp",
@@ -18,7 +18,7 @@
     "static/media/bocconi.webp": "/julia_oprzondek/static/media/bocconi.15b89dbcb1cc0b1a8efc.webp",
     "static/media/c1.webp": "/julia_oprzondek/static/media/c1.8f4be6fef39fd8ac78dc.webp",
     "static/media/penguin.webp": "/julia_oprzondek/static/media/penguin.c8c4350c667ed4e5091a.webp",
-    "static/media/lambert_long.webp": "/julia_oprzondek/static/media/lambert_long.6e2e98031329ba35a9eb.webp",
+    "static/media/lambert_long.webp": "/julia_oprzondek/static/media/lambert_long.3a09e7e82d5a2aebb4e9.webp",
     "static/media/language.webp": "/julia_oprzondek/static/media/language.2b938c0fbaa2f8a12f62.webp",
     "static/media/aptos-bold.ttf": "/julia_oprzondek/static/media/aptos-bold.3ea0f019755b70ad3448.ttf",
     "static/media/aptos.ttf": "/julia_oprzondek/static/media/aptos.ad041a973b90a1c735e9.ttf",
@@ -29,12 +29,12 @@
     "static/media/drag.webp": "/julia_oprzondek/static/media/drag.a63f12bd462af01044e2.webp",
     "static/media/punk.webp": "/julia_oprzondek/static/media/punk.411a9a7c8355a20bc49a.webp",
     "index.html": "/julia_oprzondek/index.html",
-    "main.fa4aa6d6.css.map": "/julia_oprzondek/static/css/main.fa4aa6d6.css.map",
-    "main.c15217c7.js.map": "/julia_oprzondek/static/js/main.c15217c7.js.map",
+    "main.d6ad43cd.css.map": "/julia_oprzondek/static/css/main.d6ad43cd.css.map",
+    "main.02d7ffda.js.map": "/julia_oprzondek/static/js/main.02d7ffda.js.map",
     "453.005d5c59.chunk.js.map": "/julia_oprzondek/static/js/453.005d5c59.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.fa4aa6d6.css",
-    "static/js/main.c15217c7.js"
+    "static/css/main.d6ad43cd.css",
+    "static/js/main.02d7ffda.js"
   ]
 }
