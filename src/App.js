@@ -1,5 +1,5 @@
-import React from 'react';
-import { HashRouter as Router, Routes, Route } from 'react-router-dom';
+import React, { useEffect } from 'react';
+import { HashRouter as Router, Routes, Route, useLocation } from 'react-router-dom';
 import Home from './pages/Home.tsx';
 import NavBar from './NavBar.tsx';
 
@@ -10,8 +10,20 @@ import Drag from './pages/blog/Drag.tsx'
 import Punk from './pages/blog/Punk.tsx'
 import Newonce from './pages/blog/Newonce.tsx'
 
+const usePageTracking = () => {
+  const location = useLocation();
+
+  useEffect(() => {
+    gtag('config', 'YOUR_TRACKING_ID', {
+      page_path: location.pathname,
+    });
+  }, [location]);
+};
+
 
 function App() {
+  usePageTracking();
+  
   return (
     <Router>
       <div className="App">
