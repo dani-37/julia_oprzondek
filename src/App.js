@@ -14,16 +14,18 @@ const usePageTracking = () => {
   const location = useLocation();
 
   useEffect(() => {
-    gtag('config', 'YOUR_TRACKING_ID', {
-      page_path: location.pathname,
-    });
+    if (typeof window.gtag === 'function') {
+      window.gtag('config', 'YOUR_TRACKING_ID', {
+        page_path: location.pathname,
+      });
+    }
   }, [location]);
 };
 
 
 function App() {
   usePageTracking();
-  
+
   return (
     <Router>
       <div className="App">
