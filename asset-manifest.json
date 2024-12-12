@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.009cd76f.css",
-    "main.js": "/static/js/main.ba840328.js",
+    "main.css": "/static/css/main.bbc96931.css",
+    "main.js": "/static/js/main.d0104f1f.js",
     "static/js/453.005d5c59.chunk.js": "/static/js/453.005d5c59.chunk.js",
     "static/media/c1_l.webp": "/static/media/c1_l.fc37858f060f8db5cfc2.webp",
     "static/media/newonce_l.webp": "/static/media/newonce_l.dc760b44e6c352f12829.webp",
@@ -38,9 +38,6 @@
     "static/media/lambert_long_s.webp": "/static/media/lambert_long_s.15f8fafdccfe8ac6d687.webp",
     "static/media/b1_s.webp": "/static/media/b1_s.530f66f96f92295c944e.webp",
     "static/media/a1_s.webp": "/static/media/a1_s.bbc5b3232a5409833290.webp",
-    "static/media/aptos-bold.ttf": "/static/media/aptos-bold.3ea0f019755b70ad3448.ttf",
-    "static/media/aptos.ttf": "/static/media/aptos.ad041a973b90a1c735e9.ttf",
-    "static/media/aptos-light.ttf": "/static/media/aptos-light.1f1a8000727888980f28.ttf",
     "static/media/b2_s.webp": "/static/media/b2_s.a9572e615e916dafb4d5.webp",
     "static/media/penguin_m.webp": "/static/media/penguin_m.73cb46fc4325ceeb6958.webp",
     "static/media/punk_s.webp": "/static/media/punk_s.9c050f81556891d0cbfe.webp",
@@ -55,20 +52,16 @@
     "static/media/drag_m.webp": "/static/media/drag_m.8b5ba2cf6feb86119028.webp",
     "static/media/embassy_m.webp": "/static/media/embassy_m.3aa9197b7a676c4e66ca.webp",
     "static/media/drag_s.webp": "/static/media/drag_s.60555ac546f1d6a5c5dd.webp",
-    "static/media/city_m.webp": "/static/media/city_m.2968be6fbba5f60e9ec3.webp",
-    "static/media/bocconi_m.webp": "/static/media/bocconi_m.f11994bd981ee68da288.webp",
     "static/media/goremote_m.webp": "/static/media/goremote_m.4dc8542309ce44d492d4.webp",
     "static/media/embassy_s.webp": "/static/media/embassy_s.1468e6718f8a7b6a944b.webp",
-    "static/media/city_s.webp": "/static/media/city_s.fdb53a87f8bb7937ed03.webp",
-    "static/media/bocconi_s.webp": "/static/media/bocconi_s.ef3cfa3e4b57429c4e4c.webp",
     "static/media/goremote_s.webp": "/static/media/goremote_s.c70bd5e462f42f1b4d11.webp",
     "index.html": "/index.html",
-    "main.009cd76f.css.map": "/static/css/main.009cd76f.css.map",
-    "main.ba840328.js.map": "/static/js/main.ba840328.js.map",
+    "main.bbc96931.css.map": "/static/css/main.bbc96931.css.map",
+    "main.d0104f1f.js.map": "/static/js/main.d0104f1f.js.map",
     "453.005d5c59.chunk.js.map": "/static/js/453.005d5c59.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.009cd76f.css",
-    "static/js/main.ba840328.js"
+    "static/css/main.bbc96931.css",
+    "static/js/main.d0104f1f.js"
   ]
 }
