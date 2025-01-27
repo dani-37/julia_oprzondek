@@ -4,14 +4,23 @@ module.exports = {
   theme: {
     extend: {
       fontFamily: {
-        'aptos': ['aptos', 'sans-serif'],
+        sans: ["Moderustic", "sans-serif"],
       },
-      colors : {
-        'b': '#3E5760',
-        'w': '#FAF8F6',
-        's': '#A78377'
-      }
+      animation: {
+        jump: "jump 0.3s ease-in-out forwards",
+      },
+      keyframes: {
+        jump: {
+          "0%, 100%": { transform: "translateY(0)" },
+          "50%": { transform: "translateY(-0.5rem)" },
+        },
+      },
+      colors: {
+        b: "rgba(41, 95, 209, 0.8)",
+        w: "#FAF8F6",
+        s: "#A78377",
+      },
     },
   },
   plugins: [],
-}
+};
